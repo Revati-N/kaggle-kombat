@@ -21,6 +21,8 @@ A running list of all my Kaggle battles, my rankings, lessons learned, and emoti
 |--------------------------------------------|-------------|----------------|-------------|-----------------|------------|----------------------|
 | IR UBB - lyrics classification challenge   | Kudos       | 0.81826        | 2/15        | Private         | Completed  | +6                   |
 | Predicting Road Accident Risk              | Swag        | 0.05585        | 1327/4082   | Private         | Completed  | +239                 |
+| Diabetes Prediction Challenge              | Swag        | 0.69342        | 2185/4206   | Private         | Completed  | -572                 |
+
 <!--
-| <competition-name>                   | <type>      | <score>    | <rank>      | Public/Priv | Completed  |
+| <competition-name>                   | <type>      | <score>    | <rank>      | Public/Priv | Completed  |            |
 -->
